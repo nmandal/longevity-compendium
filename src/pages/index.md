@@ -10,7 +10,7 @@ Engineer your own personalized longevity playbook and forever change the way you
 
 {% quick-link title="Nutritional interventions" icon="theming" href="/docs/nutrition" description="Develop a personalized nutrition plan and learn how to track your progress against the goal of metabolic health." /%}
 
-{% quick-link title="Exercise physiology" icon="theming" href="/docs/centenarian-decathlon" description="Implement a personal exercise protocol across four pillars of physical health – stability, strength, aerobic efficiency, and anaerobic power." /%}
+{% quick-link title="Exercise physiology" icon="theming" href="/docs/exercise" description="Implement a personal exercise protocol across four pillars of physical health – stability, strength, aerobic efficiency, and anaerobic power." /%}
 
 {% quick-link title="Sleep physiology" icon="theming" href="/docs/sleep" description="Create a personalized plan for how to improve your sleep quality." /%}
 
