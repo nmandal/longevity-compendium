@@ -16,7 +16,7 @@ Engineer your own personalized longevity playbook and forever change the way you
 
 {% quick-link title="Emotional and mental health" icon="theming" href="/docs/emotional" description="Construct an emotional health toolbox that incorporates your personal goals and risks, across all domains." /%}
 
-{% quick-link title="Pharmacology" icon="theming" href="/docs/pharmacology" description="Understand our framework around the use of medications and supplements. Be able to better advocate for yourself with your doctor." /%}
+{% quick-link title="Medications and Supplements" icon="theming" href="/docs/pharmacology" description="Understand our framework around the use of medications and supplements. Be able to better advocate for yourself with your doctor." /%}
 
 {% quick-link title="Labs & Diagnostic Screening" icon="theming" href="/docs/labs" description="Round out your personalized understanding of risk via cancer screening, labs other diagnostic protocols." /%}
 
