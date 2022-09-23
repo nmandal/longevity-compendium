@@ -1,5 +1,5 @@
 ---
-title: Centenarian Decathlon
+title: Exercise
 description: How to think about exercising for longevity
 ---
 
@@ -11,4 +11,3 @@ Training is focused on 5 buckets:
 - Zone 5
 - Strength
 - Stability
-- Rucking
