@@ -19,6 +19,30 @@ const navigation = [
       // { title: 'Installation', href: '/docs/installation' },
     ],
   },
+  {
+    title: 'Nutrition',
+    links: [{ title: 'Understanding Nutrition', href: '/docs/nutrition' }],
+  },
+  {
+    title: 'Exercise',
+    links: [{ title: 'Exercise & Physical Health', href: '/docs/exercise' }],
+  },
+  {
+    title: 'Sleep',
+    links: [{ title: 'Sleep Tactics', href: '/docs/sleep' }],
+  },
+  {
+    title: 'Emotional Health',
+    links: [{ title: 'Emotional & Mental Health', href: '/docs/emotional' }],
+  },
+  {
+    title: 'Pharmacology',
+    links: [{ title: 'Medication & Supplements', href: '/docs/pharmacology' }],
+  },
+  {
+    title: 'Labs',
+    links: [{ title: 'Screening & Diagnostics', href: '/docs/labs' }],
+  },
   // {
   //   title: 'Core concepts',
   //   links: [
@@ -58,14 +82,14 @@ const navigation = [
   //     { title: 'CacheAdvance.regret()', href: '/docs/cacheadvance-regret' },
   //   ],
   // },
-  // {
-  //   title: 'Contributing',
-  //   links: [
-  //     { title: 'How to contribute', href: '/docs/how-to-contribute' },
-  //     { title: 'Architecture guide', href: '/docs/architecture-guide' },
-  //     { title: 'Design principles', href: '/docs/design-principles' },
-  //   ],
-  // },
+  {
+    title: 'Contributing',
+    links: [
+      { title: 'How to contribute', href: '/docs/how-to-contribute' },
+      // { title: 'Architecture guide', href: '/docs/architecture-guide' },
+      // { title: 'Design principles', href: '/docs/design-principles' },
+    ],
+  },
 ]
 
 function GitHubIcon(props) {
