@@ -23,14 +23,14 @@ Aerobic performance or zone 2 is defined as the highest metabolic output/work th
 
 Anaerobic output or zone 5 training focuses on improving VO2 max.
 
+## Exercise Routine
+
 A typical week of exercise consists of:
 
 - 3-5 bouts of strength training
 - 4 bouts of zone 2
 - 2 bouts of zone 5
 - Stability is sprinkled into pretty much every day with maybe one day of a longer, more dedicated 60-minute session around stability
-
-## Exercise Routine
 
 An example schedule looks as follows:
 
