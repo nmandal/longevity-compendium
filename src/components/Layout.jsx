@@ -15,8 +15,15 @@ const navigation = [
   {
     title: 'Introduction',
     links: [
-      { title: 'Getting started', href: '/' },
+      { title: 'Getting started', href: '/' }, 
       // { title: 'Installation', href: '/docs/installation' },
+    ],
+  },
+   {
+    title: 'Longeivty',
+    links: [
+    { title: 'Understanding Lifespan', href: '/docs/lifespan' },
+    { title: 'Understanding Healthspan', href: '/docs/healthspan' },
     ],
   },
   {
