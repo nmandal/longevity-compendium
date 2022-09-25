@@ -86,8 +86,10 @@ const navigation = [
     title: 'Contributing',
     links: [
       { title: 'How to contribute', href: '/docs/how-to-contribute' },
-      // { title: 'Architecture guide', href: '/docs/architecture-guide' },
-      // { title: 'Design principles', href: '/docs/design-principles' },
+      { title: 'EARLY software platform', href: '/docs/early-software-platform' },
+      { title: 'Decentralizing Longevity podcast', href: '/docs/decentralizing-longevity-podcast' },
+      { title: 'Longevity Compendium', href: '/docs/longevity-compendium' },
+      { title: 'Short-form video', href: '/docs/short-form-video' },
     ],
   },
 ]
