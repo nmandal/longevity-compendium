@@ -1,9 +1,9 @@
 ---
-title: Medications & Supplements
-description: Understand our framework around the use of medications and supplements
+title: Exogenous Molecules
+description: Understand our framework around the use of drugs, supplements, and hormones
 ---
 
-## What I Take
+## Supplements
 
 - [Vitamin D3](https://amzn.to/3SxeRRf) 5,000 IU
 - [Fish Oil](https://amzn.to/3dF6DHS) 800 mg EPA, 600 mg DHA
