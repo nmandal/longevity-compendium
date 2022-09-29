@@ -25,15 +25,24 @@ const navigation = [
   },
   {
     title: 'Nutrition',
-    links: [{ title: 'Understanding Nutrition', href: '/docs/nutrition' }],
+    links: [
+      { title: 'Understanding Nutrition', href: '/docs/nutrition' },
+      { title: 'Nutrition Metrics', href: '/docs/nutrition-metrics' },
+    ],
   },
   {
     title: 'Exercise',
-    links: [{ title: 'Exercise & Physical Health', href: '/docs/exercise' }],
+    links: [
+      { title: 'Exercise & Physical Health', href: '/docs/exercise' },
+      { title: 'Exercise Metrics', href: '/docs/exercise-metrics' },
+    ],
   },
   {
     title: 'Sleep',
-    links: [{ title: 'Sleep Tactics', href: '/docs/sleep' }],
+    links: [
+      { title: 'Sleep Tactics', href: '/docs/sleep-tactics' },
+      { title: 'Sleep Metrics', href: '/docs/sleep-metrics' },
+    ],
   },
   {
     title: 'Emotional Health',
