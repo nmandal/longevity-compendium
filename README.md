@@ -1,4 +1,4 @@
-# Syntax
+# Longevity Compendium
 
 Syntax is a [Tailwind UI](https://tailwindui.com) site template built using [Tailwind CSS](https://tailwindcss.com) and [Next.js](https://nextjs.org).
 
@@ -19,21 +19,22 @@ npm run dev
 
 Finally, open [http://localhost:3000](http://localhost:3000) in your browser to view the website.
 
-## Customizing
+## Contributing
 
-You can start editing this template by modifying the files in the `/src` folder. The site will auto-update as you edit these files.
+To contribute, please create a branch off `main`:
 
-## License
+```bash
+git checkout -b 'descriptive-branch-name'
+```
 
-This site template is a commercial product and is licensed under the [Tailwind UI license](https://tailwindui.com/license).
+Next, make your changes, commit them them up, and open a pull request to `main`
 
-## Learn more
+```bash
+git add .  # stage all changes
+git commit -m 'message describing my changes'  # commit changes
+git push --set-upstream origin descriptive-branch-name  # push changes to remote
+```
 
-To learn more about the technologies used in this site template, see the following resources:
+![Screen Shot 2022-09-29 at 4 54 11 PM](https://user-images.githubusercontent.com/20245409/193149530-e965f650-aaf7-4e0c-b602-cb1496ef0925.png)
 
-- [Tailwind CSS](https://tailwindcss.com/docs) - the official Tailwind CSS documentation
-- [Next.js](https://nextjs.org/docs) - the official Next.js documentation
-- [Headless UI](https://headlessui.dev) - the official Headless UI documentation
-- [Markdoc](https://markdoc.io) - the official Markdoc documentation
-- [DocSearch](https://docsearch.algolia.com) - the official DocSearch documentation
-# docs
+
