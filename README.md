@@ -27,4 +27,10 @@ To contribute, please create a branch off `main`:
 git checkout -b 'descriptive-branch-name'
 ```
 
-Next, make your changes before making a pull request to `main`
+Next, make your changes, commit them them up, and open a pull request to `main`
+
+```bash
+git add .  # stage all changes
+git commit -m 'message describing my changes'  # commit changes
+git push --set-upstream origin descriptive-branch-name  # push changes to remote
+```
