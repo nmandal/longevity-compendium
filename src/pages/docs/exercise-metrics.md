@@ -3,20 +3,25 @@ title: Exercise Metrics
 description: Metrics to track for exercise at a micro and macro level
 ---
 
-## Micro
+## Metrics the EARLY platform collects from Apple Health
 
+### Micro
+
+- Date
 - Type (stability, strength, aerobic performance, anaerobic output, rucking, walking, NEAT)
 - Duration
-- Calories burned
-- Average heart rate
-- Maximum heart rate
+- Active Energy (kcal)
+- Maximum heart rate (bpm)
+- Average heart rate (bpm)
 
-## Macro
+### Macro
 
-- Calories burned
-- Inactivity time
-- Exercise miniutes
-- Stand hours
-- Steps
-- Flights climbed
-- Ideally: MET hours
+- Date
+- Active Energy (kcal)
+- Apple Exercise Time (min)
+- Apple Stand Hour (count)
+- APple Stand Time (min)
+- Flights Climbed (count)
+- Mindful Minutes (min)
+- Step Count (count)
+- VO2 MAX (ml/(kg·min))

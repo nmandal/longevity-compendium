@@ -8,6 +8,8 @@ Engineer your own personalized longevity playbook and forever change the way you
 
 Longevity is the goal, which is the balance between lifespan (living longer) and healthspan (living better).
 
+This compendium is a curation of the best-in-class science, expertise, and practical tactics to improve your health and live better for longer from world-class experts.
+
 {% quick-links %}
 
 {% quick-link title="Nutritional interventions" icon="theming" href="/docs/nutrition" description="Develop a personalized nutrition plan and learn how to track your progress against the goal of metabolic health." /%}

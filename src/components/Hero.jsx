@@ -49,11 +49,11 @@ export function Hero() {
             />
             <div className="relative">
               <p className="inline bg-gradient-to-r from-indigo-200 via-sky-400 to-indigo-200 bg-clip-text font-display text-5xl tracking-tight text-transparent">
-                Live your healthiest life.
+                Live better for longer.
               </p>
               <p className="mt-3 text-2xl tracking-tight text-slate-400">
                 Just science, expertise, and practical tactics to improve your
-                health and live better for longer.
+                health and live your healthiest life.
               </p>
               <div className="mt-8 flex justify-center gap-4">
                 <Button href="/">Get started</Button>
