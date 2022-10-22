@@ -5,7 +5,7 @@ description: Metrics to track for exercise at a micro and macro level
 
 ## Metrics the EARLY platform collects from Apple Health
 
-### Micro
+### Workouts
 
 - Date
 - Type (stability, strength, aerobic performance, anaerobic output, rucking, walking, NEAT)
@@ -14,7 +14,7 @@ description: Metrics to track for exercise at a micro and macro level
 - Maximum heart rate (bpm)
 - Average heart rate (bpm)
 
-### Macro
+### Aggregated Health
 
 - Date
 - Active Energy (kcal)

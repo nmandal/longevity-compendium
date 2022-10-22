@@ -3,14 +3,14 @@ title: Sleep
 description: Metrics to track sleep
 ---
 
-The four pillars of good sleep are depth, duration, continuity, and regularity
+EARLY leverages [Oura](https://www.ouraring.com) for tracking sleep.
 
 ## Metrics the EARLY platform collects from Oura
 
 - Date
-- Bedtime: an estimate of the time you went to bed with the intention to sleep.
-- Wake Up Time: the time you got out of bed.
 - Total Sleep Duration: the total amount of time you spend in light, REM and deep sleep.
+- Bedtime Start: an estimate of the time you went to bed with the intention to sleep.
+- Bedtime End: the time you got out of bed.
 - Awake Time: the time spent awake in bed before and after falling asleep.
 - REM Sleep Duration: REM (rapid eye movement) sleep is the final sleep stage in a typical sleep cycle. It’s associated with dreaming, memory consolidation, learning and creativity.
 - Deep Sleep Duration: Deep sleep is the most restorative and rejuvenating sleep stage, enabling muscle growth and repair.

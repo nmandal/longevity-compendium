@@ -3,13 +3,13 @@ title: Nutrition Metrics
 description: Metrics to track for nutrition
 ---
 
-Nutrition boils down to what, when, and how much you eat.
+EARLY leverages [Levels](https://www.levelshealth.com) for logging meals. Levels provides real-time feedback on how your diet and lifestyle choices impact your metabolic health using continuous glucose monitors (CGM). Their app provides a great interface for tracking meals even if a CGM isn't equipped.
 
 ## Metrics the EARLY platform collects from Levels
 
-- Local timestamp
+- Local time
+- Type
 - Notes
 - Photo link (optional)
 
-In a perfect world, we would have granular data on how many calories we eat and a record of of our bodies' gluose response to a meal.
-A nice proxy for calories eaten is to add a perceived fullness score to the notes in the [Levels app](https://www.levelshealth.com).
+In a perfect world, we would also collect data on the calories and macros of what we eat as well as our body's glucose response to the meal.
