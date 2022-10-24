@@ -1,6 +1,6 @@
 ---
-title: Nutrition Metrics
-description: Metrics to track for nutrition
+title: Levels Metrics
+description: Metrics EARLY pulls from Levels
 ---
 
 EARLY leverages [Levels](https://www.levelshealth.com) for logging meals. Levels provides real-time feedback on how your diet and lifestyle choices impact your metabolic health using continuous glucose monitors (CGM). Their app provides a great interface for tracking meals even if a CGM isn't equipped.

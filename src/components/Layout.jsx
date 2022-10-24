@@ -39,10 +39,7 @@ const navigation = [
   },
   {
     title: 'Sleep',
-    links: [
-      { title: 'Sleep Tactics', href: '/docs/sleep-tactics' },
-      { title: 'Sleep Metrics', href: '/docs/sleep-metrics' },
-    ],
+    links: [{ title: 'Sleep Tactics', href: '/docs/sleep-tactics' }],
   },
   {
     title: 'Emotional Health',
@@ -55,6 +52,17 @@ const navigation = [
   {
     title: 'Labs',
     links: [{ title: 'Screening & Diagnostics', href: '/docs/labs' }],
+  },
+  {
+    title: 'EARLY Key Metrics',
+    links: [
+      { title: 'Oura', href: '/docs/oura-metrics' },
+      { title: 'Apple Health', href: '/docs/apple-health-metrics' },
+      { title: 'Apple Workouts', href: '/docs/apple-workouts-metrics' },
+      { title: 'Levels', href: '/docs/levels-metrics' },
+      { title: 'Misc', href: '/docs/misc-metrics' },
+      { title: 'Importing data into EARLY', href: '/docs/data-import' },
+    ],
   },
   {
     title: 'Contributing',
