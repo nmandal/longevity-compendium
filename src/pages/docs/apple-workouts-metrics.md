@@ -19,3 +19,10 @@ description: Metrics EARLY pulls from Apple Workouts
 - Heart rate: Average(count/min)
 - Heart rate: Maximum(count/min)
 - METs Average(kcal/hr·kg)
+
+## Exporting your Apple Workouts data
+
+- https://healthexport.app
+  - Export workouts
+  - Select daterange (can use predefined date period)
+  - Share CSV

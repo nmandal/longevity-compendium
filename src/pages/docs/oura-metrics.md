@@ -23,3 +23,12 @@ EARLY leverages [Oura](https://www.ouraring.com) for tracking sleep.
 - Respiratory Rate: the average number of breaths you take per minute while you sleep.
 - Inactive Time: time spent sitting, standing or otherwise being passive.
 - Average MET: the daily average MET for when you are awake.
+
+## Exporting your Oura data
+
+- https://cloud.ouraring.com
+  - Trends
+  - Select date range
+  - Download data
+  - Select all meaurements
+  - Download

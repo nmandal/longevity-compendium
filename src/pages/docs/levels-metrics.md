@@ -13,3 +13,9 @@ EARLY leverages [Levels](https://www.levelshealth.com) for logging meals. Levels
 - Photo link (optional)
 
 In a perfect world, we would also collect data on the calories and macros of what we eat as well as our body's glucose response to the meal.
+
+## Exporting your Levels data
+
+- https://app.levelshealth.com
+  - Export your data
+  - Activity logs (food, exercise, notes) as csv
