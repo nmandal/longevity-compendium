@@ -8,11 +8,13 @@ description: Metrics EARLY pulls from Apple Health
 ### Aggregated Health
 
 - Date
-- Active Energy (kcal)
-- Apple Exercise Time (min)
-- Apple Stand Hour (count)
-- APple Stand Time (min)
-- Flights Climbed (count)
-- Mindful Minutes (min)
-- Step Count (count)
-- VO2 MAX (ml/(kg·min))
+- Active energy burned(Cal)
+- Apple Watch stand hours(hr)
+- Basal energy burned(Cal)
+- Exercise time(min)
+- Flights climbed(count)
+- Resting heart rate(count/min)
+- Stand time(min)
+- Step count(count)
+- VO2 Max(mL/min·kg)
+- Mindfulness(min)

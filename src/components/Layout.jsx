@@ -25,17 +25,11 @@ const navigation = [
   },
   {
     title: 'Nutrition',
-    links: [
-      { title: 'Understanding Nutrition', href: '/docs/nutrition' },
-      { title: 'Nutrition Metrics', href: '/docs/nutrition-metrics' },
-    ],
+    links: [{ title: 'Understanding Nutrition', href: '/docs/nutrition' }],
   },
   {
     title: 'Exercise',
-    links: [
-      { title: 'Exercise & Physical Health', href: '/docs/exercise' },
-      { title: 'Exercise Metrics', href: '/docs/exercise-metrics' },
-    ],
+    links: [{ title: 'Exercise & Physical Health', href: '/docs/exercise' }],
   },
   {
     title: 'Sleep',
