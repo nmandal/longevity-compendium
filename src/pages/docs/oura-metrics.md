@@ -26,9 +26,16 @@ EARLY leverages [Oura](https://www.ouraring.com) for tracking sleep.
 
 ## Exporting your Oura data
 
-- https://cloud.ouraring.com
-  - Trends
-  - Select date range
-  - Download data
-  - Select all meaurements
-  - Download
+- Go to [https://cloud.ouraring.com](https://cloud.ouraring.com)
+
+{% figure src="/oura/cloud.ouraring.png" /%}
+
+- Select `Trends`
+
+{% figure src="/oura/downloaddata.png" /%}
+
+- Select your desired date range and click `Download data`
+
+{% figure src="/oura/data.png" /%}
+
+- Select `Select all` from the dropdown and click `Download`
