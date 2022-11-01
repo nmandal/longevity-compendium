@@ -22,7 +22,18 @@ description: Metrics EARLY pulls from Apple Workouts
 
 ## Exporting your Apple Workouts data
 
-- https://healthexport.app
-  - Export workouts
-  - Select daterange (can use predefined date period)
-  - Share CSV
+- Download [HealthExport](https://apps.apple.com/us/app/health-export-csv/id1477944755) app (data privacy ensured)
+
+### Workouts
+
+{% figure src="/apple-workouts/export-workouts.jpeg" /%}
+
+- Press `Export workouts`
+
+{% figure src="/apple-workouts/export-workouts-date.jpeg" /%}
+
+- Select daterange (can use predefined date period for easy filtering)
+
+{% figure src="/apple-workouts/share-workouts.jpeg" /%}
+
+- Share CSV and save in same folder as other data

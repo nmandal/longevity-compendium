@@ -16,18 +16,40 @@ description: Metrics EARLY pulls from Apple Health
 - Resting heart rate(count/min)
 - Stand time(min)
 - Step count(count)
+
+### Record based
+
 - VO2 Max(mL/min·kg)
 - Mindfulness(min)
 
 ## Exporting your Apple Health data
 
-- https://healthexport.app
-  1. Export Aggregated data
-     - select desired metrics (can do all and EARLY will filter out erroneous columns)
-     - Select daterange (can use predefined date period)
-     - aggregate by day
-     - Share CSV
-  2. Export record based data
-     - select Mindfulness and VO2 Max
-     - select daterange
-     - Share CSV
+- Download [HealthExport](https://apps.apple.com/us/app/health-export-csv/id1477944755) app (data privacy ensured)
+
+### Aggregated data
+
+{% figure src="/apple-health/aggregated.jpeg" /%}
+
+- Select desired metrics listed above under `Aggregated Health` (or export all and EARLY will filter out erroneous columns)
+
+{% figure src="/apple-health/agg-date.jpeg" /%}
+
+- Select daterange (can use predefined date period for easy filtering) and aggregate by day
+
+{% figure src="/apple-health/share-agg.jpeg" /%}
+
+- Share CSV and save in same folder as other data
+
+### Record based
+
+{% figure src="/apple-health/export-record.jpeg" /%}
+
+- Select desired metrics listed above under `Record based` (or export all and EARLY will filter out erroneous columns)
+
+{% figure src="/apple-health/record-export.jpeg" /%}
+
+- Select daterange (can use predefined date period for easy filtering) and aggregate by day
+
+{% figure src="/apple-health/record-share.jpeg" /%}
+
+- Share CSV and save in same folder as other data
