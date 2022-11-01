@@ -52,4 +52,4 @@ description: Metrics EARLY pulls from Apple Health
 
 {% figure src="/apple-health/record-share.jpeg" /%}
 
-- Share CSV and save in same folder as other data
+- Share CSV and save CSV in a directory called `health` within a `data` directory.

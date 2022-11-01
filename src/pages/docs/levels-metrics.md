@@ -24,4 +24,4 @@ In a perfect world, we would also collect data on the calories and macros of wha
 
 {% figure src="/levels/activity-logs.png" /%}
 
-- Select `Activity logs (food, exercise, notes)` and save CSV in same location as other data
+- Select `Activity logs (food, exercise, notes)` and save CSV in a directory called `levels` within a `data` directory.

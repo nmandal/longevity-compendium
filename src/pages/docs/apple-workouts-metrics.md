@@ -36,4 +36,4 @@ description: Metrics EARLY pulls from Apple Workouts
 
 {% figure src="/apple-workouts/share-workouts.jpeg" /%}
 
-- Share CSV and save in same folder as other data
+- Share CSV and save CSV in a directory called `workouts` within a `data` directory.

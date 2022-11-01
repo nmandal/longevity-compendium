@@ -38,4 +38,4 @@ EARLY leverages [Oura](https://www.ouraring.com) for tracking sleep.
 
 {% figure src="/oura/data.png" /%}
 
-- Select `Select all` from the dropdown and click `Download` and save CSV in same location as other data
+- Select `Select all` from the dropdown and click `Download` and save CSV in a directory called `oura` within a `data` directory.
