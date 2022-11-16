@@ -3,8 +3,8 @@ title: Sleep
 description: Understanding sleep and how to improve it
 ---
 
-Sleep is the foundation of health.
-Good sleep is critical to our innate physiological repair processes, while poor sleep triggers a cascade of negative downstream consequences, from insulin resistance to cognitive decline, as well as mental health issues.
+Sleep is the foundation of health and can not be underestimated.
+Good sleep is critical to our innate physiological repair processes, while poor sleep triggers a cascade of negative downstream consequences, from insulin resistance to cognitive decline, hormonal imbalance, weakening of the immune system, increasing blood pressure, inflammation, as well as mental health issues.
 
 [Four pillars of sleep](https://www.foundmyfitness.com/episodes/four-pillars-of-sleep-depth-duration-continuity-and-regularity): depth, duration, continuity, and regularity.
 
