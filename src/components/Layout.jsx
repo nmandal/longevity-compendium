@@ -45,7 +45,11 @@ const navigation = [
   },
   {
     title: 'Labs',
-    links: [{ title: 'Screening & Diagnostics', href: '/docs/labs' }],
+    links: [
+      { title: 'Screening & Diagnostics', href: '/docs/labs' },
+      { title: 'Blood Tests', href: '/docs/blood-tests' },
+      { title: 'DEXA Scan', href: '/docs/dexa' },
+    ],
   },
   {
     title: 'EARLY Key Metrics',
