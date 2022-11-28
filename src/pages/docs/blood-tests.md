@@ -551,7 +551,7 @@ The "normal" range (or negative test result) for rheumatoid factor is less than 
 
 White blood cells (WBC) are one of four compounds of the blood, along with red blood cells, platelets, and plasma. WBCs are a core part of your immune system and only live two to three weeks. Because of this, your bone marrow is constantly making more.
 
-There are five types—granulocytes (neutrophils, eosinophils, and basophils), monocytes, and lymphocytes (T cells and B cells)—all of which Function has tested. Think of WBCs as the army that fights infections and diseases, each with a specific job: from destroying foreign invaders like bacteria and viruses and creating antibodies to fight them off to sweeping out the waste left behind during infectious combat. WBCs even help fight malignant diseases, such as cancer. It’s important that the WBC army is in tip-top shape, so that when you encounter sickness or even something that triggers an allergy, your body is strong enough and well-equipped for battle.
+There are five types—granulocytes (neutrophils, eosinophils, and basophils), monocytes, and lymphocytes (T cells and B cells). Think of WBCs as the army that fights infections and diseases, each with a specific job: from destroying foreign invaders like bacteria and viruses and creating antibodies to fight them off to sweeping out the waste left behind during infectious combat. WBCs even help fight malignant diseases, such as cancer. It’s important that the WBC army is in tip-top shape, so that when you encounter sickness or even something that triggers an allergy, your body is strong enough and well-equipped for battle.
 
 The five types of WBC are:
 
@@ -946,7 +946,7 @@ Thyroid-stimulating hormone (TSH) is made in the pituitary gland (in the brain) 
 
 Thyroxine, commonly referred to as T4, is produced in the thyroid then released into the bloodstream where it travels to various organs, like the liver and kidneys. At a certain point, it is converted to another form of a hormone called triiodothyronine (T3). The synergy of T4 and T3 is important for your heart and digestive function, metabolism, brain development, bone health, and muscle control. Both impact almost your entire body, which means proper T4 levels are vital for health. Abnormal T4 levels alone do not typically lead to symptoms but inadequate conversion to T3 or too much production of T3 can lead to feeling imbalanced. However, since T4 is free and not bound—meaning it can freely travel without being bound to another molecule—it can also exert its own influence for better or for worse.
 
-Function tests T4 alongside T3 and TSH because they’re all intertwined. Here’s how it works: the thyroid gland produces a large amount of T4. The rate and number of T4 are determined by TSH, which signals to the thyroid when and how much T4 to make. Then, an enzyme called _5' deiodinase_ converts the T4 to T3, mostly in the liver. In order to make this conversion, _5' deiodinase_ needs selenium. As with many things in your body, outside factors—stress, heavy metals, environmental toxins (pesticides, pollution, microplastics, chemicals), infections, and yeast—may disrupt this enzyme’s ability to work properly and hence make adequate amounts of T3.  Once the conversion is made, T3 is able to carry out its many jobs. So many jobs, in fact, that T3 is one of the most powerful hormones in the entire body.
+T4 alongside T3 and TSH are all intertwined. Here’s how it works: the thyroid gland produces a large amount of T4. The rate and number of T4 are determined by TSH, which signals to the thyroid when and how much T4 to make. Then, an enzyme called _5' deiodinase_ converts the T4 to T3, mostly in the liver. In order to make this conversion, _5' deiodinase_ needs selenium. As with many things in your body, outside factors—stress, heavy metals, environmental toxins (pesticides, pollution, microplastics, chemicals), infections, and yeast—may disrupt this enzyme’s ability to work properly and hence make adequate amounts of T3.  Once the conversion is made, T3 is able to carry out its many jobs. So many jobs, in fact, that T3 is one of the most powerful hormones in the entire body.
 
 This test is typically cross-referenced with TSH and free T3 levels. Sometimes T4 and TSH may appear normal while the free T3 is abnormal. Testing these in tandem can give great insight into your overall thyroid function.
 
@@ -1092,3 +1092,646 @@ Many medications can decrease platelet production, including:
 MPV measures the mass of platelets. So, why does this matter? When platelets are healthy, there is a dynamic relationship between their size and count. Let’s say they are not healthy. When the platelet count is lower, the bone marrow megakaryocytes (which are responsible for making platelets) are stimulated by thrombopoietin (a protein) to make bigger platelets. When platelets have a higher volume, that protein might be working insufficiently and creating too many megakaryocytes.
 
 MPV is particularly important in determining the cause of thrombocytopenia (a low platelet count) or thrombocytosis (a high platelet count), and it can be useful to know even if your platelet count is normal.
+
+## Liver Enzymes
+
+### Alkaline Phosphatase (ALP)
+
+| Optimal range | Reference range |
+| ------------- | --------------- |
+| 39 - 117 U/L  | 36 - 130 U/L    |
+
+Alkaline phosphatase (ALP) is an enzyme that breaks down proteins. It is found in tissue throughout the entire body but is most prevalent in the liver, bones, intestines, and kidneys. Often, abnormal levels can reflect tissue damage or issues with the organs and glands it serves.
+
+When ALP is tested, it is most often part of a comprehensive metabolic panel (CMP) that includes other liver and kidney biomarkers. It may also help monitor your response to treatment for liver or bone diseases.
+
+### Alanine Transaminase (ALT)
+
+| Optimal range | Reference range |
+| ------------- | --------------- |
+| 0 - 32 U/L    | 9 - 46 U/L      |
+
+Your alanine transaminase (ALT) enzyme is mostly found in the liver, but also in skeletal muscle, kidney, and heart cells. Its main job in the liver is to help convert proteins into energy. If liver cells are damaged from excess alcohol, drugs, disease, or injury, ALT is released into the bloodstream. Checking on ALT in the blood guides you into understanding the health of your liver. Seeing high ALT levels from this test can help diagnose liver diseases, such as fatty liver, liver injury, hepatitis, or cirrhosis in the early stages.
+
+When liver cells are injured, it causes a spill of ALT into the blood, which shows in elevated blood results. This signals potential liver damage.
+
+### Aspartate Aminotransferase (AST)
+
+| Optimal range | Reference range |
+| ------------- | --------------- |
+| 0 - 40 U/L    | 10 - 40 U/L     |
+
+Your aspartate aminotransferase (AST) enzyme is mostly found in the liver, but also skeletal muscle, heart, kidney, and lungs. Its job includes metabolism of amino acids. Even if levels are abnormal, it doesn’t automatically mean intervention is needed. However, if there has been injury to the liver it could mean that these enzymes are breaking out and entering the bloodstream, which is why high levels could indicate a problem.
+
+### Total Bilirubin
+
+| Optimal range     | Reference range |
+| ----------------- | --------------- |
+| 0.00 - 1.20 mg/dL | 0.2 - 1.2 mg/dL |
+
+The liver makes bile to help you digest food, and bile contains bilirubin. Most bilirubin comes from the body's normal process of breaking down old red blood cells. A healthy liver can normally get rid of bilirubin. Normal results can vary, but high bilirubin levels can suggest a blockage in the liver, gallbladder, or the biliary tree (liver, gallbladder, pancreas).
+
+In tandem with other liver biomarkers, this can help determine the cause of jaundice and/or help diagnose conditions such as liver disease, hemolytic anemia, or blockage of the bile ducts.
+
+### Albumin
+
+| Optimal range | Reference range |
+| ------------- | --------------- |
+| 4 - 5 g/dL    | 3.6 - 5.1 g/dL  |
+
+Albumin is a protein made by your liver that helps fluid in the bloodstream stay in the bloodstream, rather than leaking into other tissues. It also allows hormones, vitamins, and enzymes hitch a ride and travel throughout the body to their final destinations. Because of how many things albumin transports, it contributes to the absorption process of vital minerals, nutrients, and cells that your body needs to function.
+
+In conjunction with other tests in the liver panel, this helps gauge the health of your liver and any underlying conditions you may be experiencing. This test can also be used as part of a comprehensive metabolic panel that measures electrolytes, glucose, and proteins in your blood.
+
+Albumin can be impacted by malnutrition, digestive issues, and oxidative stress in addition to liver pathology.
+
+### Total Protein
+
+| Optimal range    | Reference range |
+| ---------------- | --------------- |
+| 6.00 - 8.50 g/dL | 6.1 - 8.1 g/dL  |
+
+The human body is made up of thousands of proteins, all of which have various roles in making and maintaining every cell, including enzymes and hormones. Proteins also fuel those cells and your immune system so you have the energy you need to wake up, go to work, and have a productive life.
+
+This total protein test is composed of two blood proteins: albumin and total globulin. What impacts these two proteins will impact the total protein level. These proteins are both made in the liver, hence this test is primarily used to assess liver health. However, inadequate protein intake through diet or poor digestive absorption can both be suggested through the results of this test.
+
+Proteins are cyclical and are continually being repaired and replaced. This natural process is known as protein synthesis, which relies on a proper supply of amino acids. Many amino acids come from broken-down proteins, but since the body and its functions aren’t always perfect, it’s important to get enough protein to keep up with the demand for amino acids.
+
+If the result of your total protein test is abnormal, you may need to cross-reference with your metabolic panel to determine which proteins are too high or too low. Knowing the specific reason for your deficiency or abundance can help diagnose a number of health conditions, including:
+
+- Kidney disease
+- Liver disease
+- Malnutrition
+
+## Kidney
+
+### Blood Urea Nitrogen (BUN)
+
+| Optimal range      | Reference range |
+| ------------------ | --------------- |
+| 6.00 - 24.00 mg/dL | 7 - 25 mg/dL    |
+
+Let’s take a look into your kidneys whose main job is filtering and then removing waste and extra fluid from your body. Blood urea nitrogen (BUN) is one of the waste products your kidneys flush out, so this test checks if there is a build-up of urea nitrogen waste in your blood. Urea is formed in the liver from protein breakdown and digestion. Excessive urea indicates an imbalance in the production or clearance of the by-product. Higher than normal BUN levels may be a sign that your kidneys aren't working efficiently to filter waste out of the blood. Urea can also be elevated due to gut microbial production of ammonia, which is converted into BUN by the liver.
+
+Typically, this test is compared with creatinine to monitor your kidney’s ability to regulate waste. If you have kidney disease, waste material can build up in your blood and may lead to serious health problems, including high blood pressure, anemia, and heart disease. In absence of elevated creatinine, it suggests there may be excessive dietary protein intake, usually in the form of supplemental amino acids.
+
+### Creatinine
+
+| Optimal range     | Reference range   |
+| ----------------- | ----------------- |
+| 0.57 - 1.00 mg/dL | 0.60 - 1.35 mg/dL |
+
+Creatinine (not to be confused with creatine supplement) is a chemical compound left over from everyday wear and tear of your muscles. It is normal for the body to produce creatinine, and levels depend on age, gender, muscle mass, and race.
+
+When the kidneys are healthy, they filter creatinine out of the blood where it then leaves your body as a waste product in urine. Typically, this test is used if someone is experiencing symptoms from diabetes-induced kidney disease (tired, trouble sleeping, blood in urine, foamy urine, and more), high blood pressure, or other conditions that increase the risk of kidney disease.
+
+Also, testing creatinine helps monitor for side effects of drugs that can cause kidney damage or altered kidney function. However, because creatinine levels vary from person to person, this test on its own is not used as a sole diagnostic tool. Rather, it’s a signal for further investigation. Compare this test with your blood urea nitrogen (BUN), which will give you a better scope of your kidney health.
+
+### Sodium
+
+| Optimal range          | Reference range  |
+| ---------------------- | ---------------- |
+| 134.00 - 144.00 mmol/L | 135 - 146 mmol/L |
+
+Sodium is both an electrolyte and mineral that maintains a balance between water and electrolytes in your body. It’s like a conductor for your blood pressure, muscles, and nerves. When sodium levels are low (hyponatremia), those vital functions can’t stay on track or in rhythm; when high (hypernatremia), sodium tilts the electrolyte balance and can lead to serious problems involving those mechanisms.
+
+Sodium levels are affected by the adrenal glands and kidneys, the primary regulators of this important electrolyte. When your body needs more sodium, your adrenal glands and kidneys have careful response systems to ensure the release of sodium into the blood. Thus low or high sodium is always a sign of something atypical.
+
+Abnormal electrolyte levels may be a sign of dehydration, kidney disease, liver disease, heart failure, high blood pressure, or other disorders. But for most people, keeping sodium levels in check is not a problem. However, when something like diarrhea or profuse vomiting occurs, you may become dehydrated and lose electrolytes. In this case, it’s always important to restore yourself with more electrolytes.
+
+In rare instances, individuals who suffer from fainting spells or kidney or hormone-related diseases, or those taking certain prescribed medications, need to be careful not to let their sodium intake drop below a certain level.
+
+According to Johns Hopkins Medicine, cutting down on sodium intake may reduce the risk of heart disease and stroke.
+
+## Electrolytes
+
+### Chloride
+
+| Reference range |
+| --------------- |
+| 98 - 110 mmol/L |
+
+Chloride is a major electrolyte in your body, and you need it to stay healthy. Like its electrolyte brethren—sodium and potassium—chloride manufactures channels in cell membranes, which carry out different vital tasks, like helping:
+
+- Cells take in and put out nutrients and water
+- Muscles contract
+- Digestion
+- Oxygenation
+- Nerves transport messages from the brain to the rest of the body
+- Balance fluids and regulate blood pressure
+
+Chloride is found naturally in foods and most often in table salt (aka sodium chloride). Abnormal electrolyte levels may be a sign of dehydration, kidney disease, liver disease, heart failure, high blood pressure, or other disorders. A chloride test is useful in diagnosing the underlying causes behind abnormal fluid levels or pH balances. Chloride is under the same control as sodium, thus when we see changes in sodium, it is expected to see the same in chloride.
+
+### Potassium
+
+| Reference range  |
+| ---------------- |
+| 3.5 - 5.3 mmol/L |
+
+Like your other electrolytes, potassium is pretty important. In orchestra with sodium, it helps:
+
+- Cells take in and put out nutrients and water
+- Muscles contract
+- Digestion
+- Nerves transport messages from the brain to the body
+- Balance fluids and regulate blood pressure
+
+Abnormal electrolyte levels may be a sign of dehydration, kidney disease, liver disease, heart failure, high blood pressure, or other disorders. Potassium must stay balanced in your body when managing kidney disease. If your kidneys are not working well, potassium levels in your blood might get too high.
+
+### Bicarbonate (Carbon Dioxide)
+
+| Reference range |
+| --------------- |
+| 20 - 32 mmol/L  |
+
+Bicarbonate is an alkali of the electrolyte family. As an alkali, it plays a role in balancing the acid-base of your pH balance. pH levels measure the amount of acids and alkaline bases in your blood. Your body is built to maintain a healthy balance of acidity and alkalinity, and when either of those change, bicarbonate helps to rebalance them with some help from water, hydrogen, hemoglobin, phosphate, and carbon dioxide.
+
+Here’s how it works: bicarbonate travels to your lungs through the bloodstream. When you exhale, bicarbonate leaves the body as carbon dioxide. Bicarbonate is also regulated by your kidneys. Both of these mechanisms help manage your body's overall pH balance.
+
+If bicarbonate levels are too high or too low, it could mean your body is struggling to maintain its pH balance. This could be caused by an electrolyte imbalance or the inability to remove carbon dioxide from the body. Abnormal electrolyte levels may be a sign of dehydration, kidney disease, liver disease, heart failure, high blood pressure, or other disorders.
+
+## Metabolic Health
+
+### Hemoglobin A1c (HbA1c)
+
+| Optimal range          | Reference range     |
+| ---------------------- | ------------------- |
+| 4 - 5.5 % of total Hgb | <5.7 % of total Hgb |
+
+HbA1c is your estimated average glucose (sugar) levels found in your blood over a 75 to 90-day period. This measurement gauges inflammation in your body and helps diagnose and monitor treatment for prediabetes and diabetes. The American Diabetes Association dubs this test a “powerhouse” because of how revelatory it is for your health.
+
+To look at the bigger picture of what HbA1c is testing, you’ll need to understand hemoglobin and A1c on their own:
+
+- Hemoglobin: a protein found in red blood cells. It gives blood its red color, and its main duty is carrying oxygen throughout your body. When glucose builds up in your blood (high blood sugar/hyperglycemia), it binds to the hemoglobin in your red blood cells (RBCs).
+- A1c: percentage of hemoglobin that is coated with glucose/sugar, otherwise known as “glycated hemoglobin.” In _Glucose Revolution,_ Inchauspé explains the Maillard reaction, a process in the body where things “brown” from the moment of birth; kind of like bread being toasted. Glycation is this process, and according to the science outlined in the book, “browning happens when a glucose molecule bumps into another type of molecule. That causes a reaction. The second molecule is then said to be glycated. When a molecule is glycated, it’s damaged.” The more glucose in the body, the more glycation occurs.
+
+This test measures how many glucose molecules have been glycated within 75-90 days.
+
+When blood sugar is chronically high, it accumulates in the red blood cell and tells a story about what has occurred over several months. It is important to note that HbA1c only rises after insulin resistance is typically already established. Diagnosis of prediabetes often follows after years of rising insulin. If you have diabetes, excess glucose in your blood can attach to hemoglobin and raise the level of HbA1c.
+
+According to Inchauspé, a diet that reduces glucose spikes can decrease inflammation and the risk of inflammatory diseases.
+
+**Establishing a baseline with Hemoglobin A1c**
+
+Red blood cells (RBCs) are constantly being produced, used, and cycled out of the body. RBCs survive in the blood for approximately two to three months, so this test shows the average glucose level in your blood during the most recent two to three months. If your glucose levels have been high, your HbA1c test will be higher. One test cannot make a clear diagnosis because of how often your hemoglobin circulates out of the bloodstream. Therefore, knowing your baseline and comparing your levels over time is important in tracking overall health.
+
+People with diabetes should take this test every three months to make sure their blood sugar is in their target range. After that, the frequency of taking this test depends on the type of diabetes, blood sugar control, and treatment plans.
+
+### Leptin
+
+| Optimal range      |
+| ------------------ |
+| 0.30 - 13.40 ng/mL |
+
+Leptin is a protein hormone created by fat cells that helps regulate your appetite. Its main jobs are managing energy expenditure and telling your brain to stop eating.
+
+Here's how it works: at a healthy weight, fat cells produce leptin, which triggers the hypothalamus in the brain to regulate your appetite. Generally, the amount of leptin in your blood is related to the amount of fat tissue in your body. If you have excess fat, leptin will rise. Conversely, if you are very lean, leptin stores will decrease. There’s a Georgian word _shemomedjamo_ that describes someone who knows when they are full but continues to eat anyway. That “knowing” is your leptin telling you when you’re done.
+
+Unfortunately, leptin is a proinflammatory molecule, which contributes to chronic inflammation when released in excess for people living with obesity. So, when anti-inflammatory adiponectin and pro-inflammatory leptin are out of balance the result can be chronic inflammation. When an individual has excess fat, a high level of leptin in the blood may lower the body's sensitivity to leptin and cause leptin resistance, which in turn may lead to overeating.
+
+Leptin resistance and insulin resistance have many similar causes. Anything that causes inflammation (stress, poor diet, food sensitivities, leaky gut, environmental toxins) may trigger leptin to go up. Leptin has now been identified as a critical hormone for reproduction as well and has its own ability, beyond insulin, to reduce blood sugar in tissues.
+
+### Adiponectin
+
+| Optimal range      |
+| ------------------ |
+| 2.50 - 12.30 ug/mL |
+
+Adiponectin is a protein hormone (growth hormone, like prolactin and insulin) that influences body weight and metabolism. It helps to combat inflammation, regulate glucose, metabolize lipids, and control insulin response. Adiponectin is also secreted from fat cells, like leptin, but has an anti-inflammatory effect on its target cells and is of concern when low, not high; the opposite of leptin. Adiponectin is emerging as a fertility biomarker and plays a role in the hormones produced in the ovary, egg development within a follicle, and even implantation of an embryo into the uterine lining.
+
+In order to fully understand adiponectin, it’s important to know how proteins help with metabolic functions, which change food into energy. This energy helps our body do everything from getting out of bed in the morning, moving, thinking, and growing. Proteins like adiponectin help control the chemical reactions of metabolism.
+
+Adiponectin belongs to the family of proteins called adipokines, meaning it is secreted from adipocytes, which are fat cells. It is also a hormonal messenger and communicates specific signals to neighboring and far away cells. It helps to support the metabolic functions in the body including insulin sensitization, protection against atherosclerosis, hypertension, and non-alcoholic fatty liver disease, among others.
+
+Good food is the number one supporter of adiponectin. When your meals are on track and you’re getting enough proteins, healthy fats, vitamins and minerals, it’s easier for your body to do the above tasks. With this in mind, think about this test as an indicator of metabolic disorders, such as type 2 diabetes. When low, it will slow you down because there aren’t enough proteins to help with metabolic functions.
+
+### Insulin
+
+| Optimal range |
+| ------------- |
+| 2 - 5 uIU/mL  |
+
+Insulin is a protein hormone that helps glucose enter cells. Glucose is a sugar derived from carbohydrates (starchy vegetables, fruits, grains) that acts as your body's main source of energy.
+
+When you eat a carbohydrate, your body breaks it down into glucose where it is absorbed through the intestines before entering the bloodstream. During this process, glucose levels in the blood naturally rise, which signals the pancreas to make insulin. From there, insulin guides glucose into cells. Think of insulin as a doorman for glucose. Without the doorman, glucose gets stuck in the hallway unable to enter the cell.
+
+- **Type 1 diabetes:** there is too little insulin and blood sugar is too high (hyperglycemia), which means cells can't get the energy they need. This could indicate inadequate production of insulin from the pancreas. This is the basis of type 1 diabetes.
+- **Type 2 diabetes or prediabetes:** Most commonly, blood sugar is too high (or high-normal) and insulin is also high or high-normal. This is **insulin resistance**, meaning it is taking more and more insulin to pull the same amount of blood sugar from the blood. This is the case with prediabetes and type 2 diabetes.
+- **Insulinoma**: there is too much insulin and blood sugar is too low (hypoglycemia), causing symptoms such as sweating, trembling, and lightheadedness. This should be evaluated for an insulinoma (insulin-secreting tumor of the pancreas).
+
+Establishing your baseline by testing your insulin over time is incredibly insightful to how your health, habits, and lifestyle affect your levels. Testing your insulin can help uncover the reasons behind abnormal blood sugar, insulin resistance, and other conditions related to insulin production. It can also reveal hidden problems with how your body controls your blood sugar years before escalating to more serious issues, such as diabetes.
+
+Because you fasted for this test, your numbers reflect your “fasted insulin.” If your numbers are abnormal, it may be beneficial to get a continuous glucose monitor to track your blood sugar throughout the day. Insulin fluctuates with food, drink, and activity, so while “fasted insulin” can signal abnormal levels, monitoring like this also offers an important reading.
+
+### Glucose
+
+| Optimal range | Reference range |
+| ------------- | --------------- |
+| 70 - 85 mg/dL | 65-99 mg/dL     |
+
+Glucose is a type of sugar your body uses for energy. When you eat starch, table or fruit sugars, they are broken down into glucose. Once glucose is absorbed it travels throughout the body where it either becomes the energy molecule adenosine triphosphate (ATP)—the storage form in the liver or muscle tissue glycogen—or is made into energy storage molecules called triglycerides, which are the fat storage form of carbohydrates.
+
+- **Too little glucose:** blood sugar is too low (hypoglycemia). Symptoms include excessive sweating and hunger, lightheadedness, fatigue, nausea, confusion, headache, and shakiness
+- **Too much glucose:** blood sugar is too high (hyperglycemia) and cells can't get the energy they need. Diabetes can cause high glucose. Symptoms include frequent urination, excessive thirst, blurry vision, fatigue, headache, and risk for ketoacidosis in extreme cases.
+
+The human body is very intuitive and maintains a somewhat narrow range for blood glucose. When there’s excess, it releases insulin to pull blood sugar out of the blood. When deficient, it releases glucagon to reduce risk of hypoglycemic events. Hence it is relatively difficult, except in cases of diabetes or extreme fasting, to experience symptoms from too high or too low blood sugar. With that being said, the more common form of abnormal glucose values is something called “impaired fasting glucose” caused by prediabetes or other issues with metabolism. Almost always asymptomatic, this is when glucose levels are between 95-125 consistently when fasting. They also should be correlated with elevated fasting insulin, abnormal oral glucose tolerance test (OGTT), higher HbA1c, and increased triglyceride to HDL ratio.
+
+It’s important to understand that by the time your blood sugar (glucose) is elevated, you’re already a few steps into a potentially negative path. Healthy, body-affirming foods are absolutely critical in the maintenance of your glucose and reduction of spikes. Jessie Inchauspé, author of _Glucose Revolution,_ has also used science to better understand how and when you eat food matters. This means _you_ can, through lifestyle adjustments, stay on a healthy course and/or shift the tide of unhealthy glucose levels.
+
+To avoid hypo- or hyper- glycemia, maintain a healthy lifestyle and exercise. Stable blood sugar brings fulfillment to your mood, energy, and focus. Hyperglycemia, in particular, is a major driver of many diseases and illnesses: cancer, diabetes, high blood pressure, heart attacks, kidney disease, and Alzheimer’s disease. Too much can also cause unpleasant moods, anxiety, and feelings of depression.
+
+### Uric Acid
+
+| Optimal range   | Reference range |
+| --------------- | --------------- |
+| 3.8 - 5.0 mg/dL | 4.0 - 8.0 mg/dL |
+
+When your body digests purines—a compound found in some foods and drinks (beer, high-fat dairy and meat, and organ meats)—it produces a waste compound called uric acid. At healthy levels, uric acid helps enzymes and hormones, and also aids processes like antioxidant activity and stress, and regulating blood pressure. Once it’s utilized, it dissolves in the blood and is filtered mostly by the kidneys. However, some go through the intestines. From there, it leaves the body through urine or stools.
+
+At unhealthy levels, either high or low, uric acid can cause problems. If too much uric acid is produced, then the kidneys can’t remove it properly and levels in the blood increase. A buildup of uric acid causes crystals and potential kidney stones, but it can also lead to a type of arthritis known as gout.
+
+Testing uric acid in the blood screens for most purine metabolic disorders, like gout, anemia, and immunodeficiencies.
+
+## Urine
+
+### pH
+
+| Optimal range  | Reference range |
+| -------------- | --------------- |
+| 6.50 - 7.50 pH | 5.0 - 8.0 pH    |
+
+Urine is composed of metabolites that the body has designated as a waste product. Urine also contains nutrients, electrolytes, and water, all of which impact pH balance. The acidity of your urine can change when the balance of those compounds changes, and a pH urine test reveals their composition.
+
+- Low pH: urine becomes more acidic when the body retains excess sodium or acid. Common factors of this include:
+  - Diet high in fish, meat products, or cheese
+  - Diabetic ketoacidosis, which is a complication of diabetes
+  - Diarrhea or vomiting
+  - Starvation
+- High pH: when your body retains excess “base,” your urine becomes more basic or “alkaline.” Common factors of this, include:
+  - Diet high in fruits, vegetables, or non-dairy cheese or milk products
+  - Kidney stones
+  - Urinary tract infections (UTIs)
+  - Kidney related disorders
+
+The goal of testing pH is to identify whether or not you have an acid-base imbalance, to determine how severe the imbalance is, and to help diagnose underlying diseases or conditions (such as diabetic ketoacidosis, a life-threatening complication of diabetes). Testing also helps monitor critical illnesses that affect acid-base balance, such as chronic lung disease and kidney disease.
+
+### Specific Gravity
+
+| Optimal range  | Reference range  |
+| -------------- | ---------------- |
+| 1.00 - 1.04 SG | 1.001 - 1.035 SG |
+
+Specific Gravity tests the concentration of particles in your urine, and is a quick way for a physician to tell if your kidneys are trying to compensate for an abnormality.
+
+- Too concentrated: Most commonly associated with dehydration. This may also be a sign of kidney dysfunction but should be correlated with creatinine in the blood.
+- Under concentrated: This may signal a rare condition called diabetes insipidus, which causes thirst and the excretion of large amounts of diluted urine
+
+### Glucose
+
+| Reference range |
+| --------------- |
+| Negative        |
+
+If you’re healthy, glucose levels in your urine are generally too low to be detected. However, after very high sugar meals (Thanksgiving or that dinner party you attended before your test) it is not uncommon to temporarily see glucose in your urine. If you properly fasted and your test detects glucose, closely review your blood glucose and HbA1c tests.
+
+According to the University of California San Francisco, almost 50% of pregnant women detect glucose in their urine at some point during their pregnancy
+
+### Protein
+
+| Reference range |
+| --------------- |
+| Negative        |
+
+Normally, protein stays in your blood and doesn’t pass into your urine. Your kidneys prevent this from happening through proper filtering channels. There are things called glomeruli (loops of capillaries) that allow only small particles, like salt, water, and waste into your urine while keeping the larger particles like protein at bay. When this process isn’t working and protein gets into your urine it is a sign that the glomeruli are inflamed or damaged.
+
+The goal of this test is to evaluate kidney function. If proteinuria (protein in urine) is detected, you should monitor this regularly over time to see if it resolves or becomes worse. Both urine and blood tests evaluate proteinuria.
+
+### Bilirubin
+
+| Reference range |
+| --------------- |
+| Negative        |
+
+The liver makes bile to help you digest food. This bile contains bilirubin. Most bilirubin comes from the body's normal process of breaking down old red blood cells. A healthy liver can normally get rid of excess bilirubin, but when the liver isn’t working properly it can cause buildup of bilirubin.
+
+Healthy urine and livers won’t have bilirubin, but high bilirubin levels can mean a problem with your liver.
+
+### Ketone
+
+| Reference range |
+| --------------- |
+| Negative        |
+
+Ketones are produced in the liver and are part of your body’s metabolism process. They are formed from the breakdown of fatty acids into a compound called _acetyl CoA_, which is then converted in the liver and exported to tissues as a fuel source. They are formed when there’s not enough glucose or sugar to fuel your body’s energy stores. If you’re low on blood glucose, your body is able to increase the production of these energy-rich compounds to provide fuel to keep going. This usually happens when or if you’re fasting, restricting calories, or on a ketogenic or low carb diet. It can also occur in someone with untreated or uncontrolled diabetes. Most commonly, type 1 diabetes mellitus.
+
+Ketones can show up in both your blood and urine. High levels \*\*\*\*in urine may indicate ketoacidosis or diabetic ketoacidosis (DKA), a complication of diabetes; the latter can lead to a coma or even death. If you do not have diabetes, there are other factors that can cause the development of ketones:
+
+- Chronic vomiting and/or diarrhea, or eating disorders
+- Gastrointestinal diseases (IBS, Colitis, Crohn’s, Celiac, GERD)
+- Strenuous exercise
+- Very low-carbohydrate diet
+- Fasting
+- Pregnancy
+
+### Nitrite
+
+| Reference range |
+| --------------- |
+| Negative        |
+
+Healthy urine has chemicals called nitrates. If bacteria enter the urinary tract, nitrates can transform into a chemical called nitrites. Increased nitrites in urine, therefore, may be a sign of an infection in the urinary tract, which includes the kidneys, renal pelvis, ureters, bladder, and urethra. This is known as a urinary tract infection (UTI). Sometimes, however, not all bacteria is able to convert nitrate to nitrite, so it is possible to have a UTI even with a negative nitrite test.
+
+### Leukocytes
+
+| Reference range |
+| --------------- |
+| Negative        |
+
+Leukocytes are white blood cells (WBCs) and if they’re detected in your urine, it may be a sign of inflammation in the urinary tract or kidneys, which causes WBCs to go to the urinary tract to help fight the problem. The most common cause for WBCs in urine, a condition called leukocyturia, is a bacterial infection in the bladder or kidney.
+
+When this test is positive and/or the WBC count in urine is high, it may indicate that there is inflammation in the urinary tract or kidneys. Typically, a doctor will look under a microscope at the WBCs and other signs that point to an infection.
+
+### Occult Blood
+
+| Reference range |
+| --------------- |
+| Negative        |
+
+This test detects blood in your urine, otherwise medically referred to as hematuria. Although blood in the urine can feel alarming, it is not necessarily a cause for great alarm. Blood in the urine is a sign, not a disease itself. Occult blood should prompt you into looking for an underlying cause.
+
+When your urine is tinted red or light pink, it could be from laxatives, beets, rhubarb, berries, riboflavin, and B12. This typically clears up after a few days. Blood in your urine, however, looks different and you might even feel pain in your kidneys or after peeing.
+
+### Clarity / Appearance
+
+| Reference range |
+| --------------- |
+| Clear           |
+
+A clarity test is what it sounds like; checking in on the clarity of your urine from clear to turbid. Here are the types of clarity and what they could potentially mean:
+
+- Clear: overhydrated
+- Slightly clear: just right
+- Cloudy: dehydration, UTI, kidney stones, blood, crystals, yeast, parasites
+- Excessively cloudy (turbid): detected protein or cellular material
+
+### Color
+
+| Reference range |
+| --------------- |
+| Yellow          |
+
+An unusual urine color can be a sign of disease or dehydration. The scale of light to dark gives a picture of how much water is being flushed through your system. You can visibly check on your hydration by looking at the color of your urine. Fluids dilute the yellow pigments in urine, so the more you drink, the clearer your urine. As with occult blood, other things can impact the color of your urine, too: water intake, vitamins, laxatives, beets, rhubarb, and other deeply tinted foods.
+
+If your urine is consistently discolored, the color test can help screen for and/or monitor several diseases and conditions, such as kidney disorders or urinary tract infections (UTIs).
+
+### Bacteria
+
+| Reference range |
+| --------------- |
+| None Seen       |
+
+Healthy urine is sterile, meaning absence of microbes like bacteria and yeast, so when there is bacteria in your urine, you may have an infection, especially if you experience symptoms, such as pain after urination, lower or upper back pain, or blood in your urine. This test is typically used to diagnose a urinary tract infection (UTI).
+
+### Hyaline Casts
+
+| Reference range |
+| --------------- |
+| None Seen       |
+
+Hyaline casts are the only casts that can be present in healthy urine. In which case, you may experience slow urine flow, which can be a result of strenuous exercise, diuretic medications, severe vomiting, or fever. Large amounts of hyaline casts may indicate kidney damage due to decreased blood flow to the kidneys.
+
+### Squamous Epithelial Cells
+
+| Reference range |
+| --------------- |
+| None Seen       |
+
+The squamous epithelial cells are composed of the type of epithelial cell that is most common to the skin, blood vessels, and lower part of the urethra or genital tract. It's normal to have a small amount of epithelial cells in your urine. A larger amount may suggest contamination from the genital tract, kidney disease, or another serious medical condition.
+
+## Biometrics
+
+### Blood Pressure
+
+Blood pressure is measured using two numbers:
+
+- Systolic: measures the pressure in your arteries when your heart contracts and pushes blood into the body.
+- Diastolic: measures the pressure in your arteries when your heart relaxes/fills with blood between beats.
+
+If the measurement reads 120 systolic and 80 diastolic, you would say, “120 over 80.” Risk increases as the numbers increase. High blood pressure (hypertension) means that the pressure in your arteries doesn’t allow for complete filling or relaxation of the heart as well as increased shearing forces on the artery walls. Blood pressure changes throughout the day depending on your activity, eating large meals, or even stress level. But prolonged blood pressure caused by smoking, obesity, and chronic stress can cause your arteries to become less flexible over time. This leads to a decreased ability to dilate the blood vessels and provide oxygenation to the tissues. Over time this can lead to serious, life-threatening medical conditions.
+
+**Normal**
+
+- Systolic: between 90 - 120 mm Hg
+- Diastolic: less than 80 mm Hg
+
+**At Risk (prehypertension)**
+
+- Systolic: 120–139 mm Hg
+- Diastolic: 80–89 mm Hg
+
+**High Blood Pressure (hypertension)**
+
+- Systolic: 140 mm Hg or higher
+- Diastolic: 90 mm Hg or higher
+
+When high blood pressure leads to hypertension, it may require medical care and cause:
+
+- Early morning headaches
+- Nosebleeds
+- Irregular heart rhythms
+- Changes in vision changes
+- Buzzing in the ears
+- Fatigue
+- Nausea
+- Vomiting
+- Confusion
+- Anxiety
+- Chest pain
+- Muscle tremors.
+
+In order to maintain healthy blood pressure levels, it’s important to be at a healthy weight. Blood pressure is related to lifestyle, weight, and food choices. Exercising 90-150 minutes a week (That’s nothing! There are 10,000 minutes in a week!), supports your overall health and keeps a good flow in your veins.
+
+### Weight
+
+Maintaining a healthy weight is important for every human’s overall health. Looking through the complex and miraculous systems constantly at work to help us thrive, it’s our duty to help and support them. Being over or underweight can throw off the synergy of cells, catapult inflammation, and hinder every mechanism of your body. Take a meander through the biomarkers you’ve tested and reflect on how food, exercise, and excess fat can then impact those biomarkers. Also, consider the impact of malnourishment by being underweight. It’s truly extraordinary.
+
+Good health and proper weight helps to prevent, control, and even heal many diseases and conditions. Being on the high or low spectrum of weight impacts almost every aspect of health, from reproductive and respiratory function to memory and mood.
+
+Excess weight puts you at higher risk of developing serious health problems, including heart disease, high blood pressure, type 2 diabetes, gallstones, breathing problems, and certain cancers. Weighing too little can contribute to malnutrition, and therefore a weakened immune system, fragile bones, and chronic fatigue.
+
+When your body is nourished with the vitamins, minerals, and nutrients it needs, the complex and magical workings are able to work in symphony. Maintaining weight is taking care of the beautiful machine churning inside of you. It’s fueling it with energy and creating a wonderful flow of cells that enhance your everyday health.
+
+### Height
+
+Your height is being used to calculate body mass index (BMI), along with weight and waist circumference.
+
+### Waist Circumference
+
+Your waist circumference is the measurement of your waistline. Excess fat around the abdomen (or abdominal fat mass) is associated with an increased risk of cardiometabolic disease and most chronic illnesses. While your WC isn’t a diagnostic tool on its own, it is a marker of your risk based on fat mass. Men and women who have waist circumferences greater than 40 inches (102 cm) and 35 inches (88 cm), respectively, are considered to be at risk for illness.
+
+This helps calculate body mass index (BMI). However, BMI is not accurate for everyone because you can have a high BMI if you are a bodybuilder or have tons of muscle, which doesn’t make you “obese.”
+
+### Body Mass Index (BMI, calculated)
+
+Body Mass Index (BMI) is often looked at to measure obesity. However, BMI is not accurate for everyone as it doesn’t take into account body composition. An example is that of a bodybuilder. They may have tons of muscle, and because of that, they have a high BMI. However, they are technically not “obese.” So, according to BMI measurements, a bodybuilder has low body fat but can have a BMI in the obese range and a skinny fat person can have a normal BMI but have the body fat of an obese person.
+
+Therefore, BMI isn’t always the best tool to assess general health. To normalize this factor, waist-to-hip ratio is also considered. For males, the ideal waist-to-hip ratio is < 0.9 and for females, the ideal waist-to-hip ratio is < 0.8.
+
+BMI is used in some biomarkers, such as leptin or adiponectin, to determine the reference range. For example, based on the BMI of adults, they are in or out of range for leptin.
+
+## Food Allergy
+
+### Adult Food Allergy Profile (IgE)
+
+There are a couple of things to understand about this test. First, an IgE (also known as immunoglobulin) is an antibody that is made in response to an allergen.  It is part of the signaling system that triggers histamine release from a cell type called a mast cell.
+
+There are four major types of immunoglobulin antibodies: IgG, IgM, IgA, and IgE. The body produces different antibodies to attack different things. As an example, one antibody is used to fight off the flu, while another will activate and release histamines to combat an allergy. The IgE allergy test looks if you are susceptible to the classic, well-known list of food allergies. An important thing to note here is that IgE food allergies are different from food sensitivities, which are mediated by IgG, IgM, and IgA immunoglobulins.
+
+If the results show that you have an IgE-mediated food allergy, the treatment is to avoid the food. There is no proven cure for food allergies except for eliminating the food to prevent allergic reactions or seeing an allergist for desensitization therapy.
+
+### **Food Allergy (IgE - mediated by the immune system)**
+
+When triggered by something your body sees as dangerous—pollen, dander, dust mites, or in the case of food, a protein—the immune system’s IgE antibodies release histamines. Allergy foods cause an immediate IgE response after exposure. For instance, hives, wheezing, difficulty breathing, or anaphylactic shock. Eight foods are responsible for most food allergies:
+
+- Peanuts
+- Tree nuts
+- Dairy
+- Eggs
+- Gluten
+- Soy
+- Fish
+- Shellfish
+
+### Shellfish Allergy Panel (IgE)
+
+Shellfish allergies are the most common food allergy in adults, and about 60% of people allergic to shellfish experience their first reaction during adulthood. This blood test measures your IgE antibody response to shellfish proteins by measuring the amount of IgE antibodies in your bloodstream.
+
+Shellfish includes:
+
+- Crustaceans: lobster, shrimp, crab, krill, prawns
+- Mollusks: mussels, clams, oysters, scallops
+- Note: finned fish can have cross-contamination when being prepared
+
+Many people allergic to shellfish have severe reactions, like anaphylactic shock, which immediately triggers swollen throat (airway constriction), rapid pulse, shock, or dizziness or lightheadedness. This is a medical emergency that requires immediate treatment with an epinephrine (EpiPen) injection and/or a trip to the emergency room.
+
+Anaphylaxis can be life-threatening, and if you have a shellfish allergy, risk of anaphylaxis increases if have:
+
+- Asthma
+- Allergic reactions to very small amounts of shellfish (extreme sensitivity)
+- A history of food-induced anaphylaxis
+
+## Alzheimer's Risk
+
+### Apolipoprotein E (ApoE)
+
+ApoE is a genetic test that comes in three major types (alleles): 2, 3, 4. We all inherit two copies, one from each parent, therefore it is possible to have a combination of different numbers together. For instance, ApoE2/3 or ApoE3/4. One of its important jobs is cholesterol metabolism. If your cholesterol is high, double check your ApoE status as this may be an important contributing factor.
+
+- ApoE3 is the most common version. It neither increases nor decreases the risk of Alzheimer’s Disease.
+- ApoE2 is the most effective ApoE at supporting healthy brain metabolism and reducing the brain’s production of plaques and fibrillary tangles (from another protein, tau, that seems to play a role).
+- ApoE4 is considered potentially problematic due to the reduced efficiency of lipid metabolism in the brain and the impact it seems to have on carriers for Alzheimer's risk. ApoE4 creates more challenges to remove cholesterol and other waste products from the brain's helper cells, so the brain creates more plaque and fibrillary tangles in response. Unfortunately, in people who have this gene but choose to smoke, not control their blood sugar, and are metabolically “unfit,” these harmful, disease-causing plaques are able to build up and damage the brain and the blood-brain barrier (BBB).
+
+ApoE is a predictive genetic biomarker for Alzheimer’s disease, currently one of the leading causes of death in the United States. The result of this test illuminates your personal risk, even decades before onset of the disease. Holding this wisdom in your hands, along with the health of your brain's support systems, can potentially help you avert onset completely.
+
+For many people, Alzheimer’s can be avoided. In fact, according to Dr. Dale Bredesen, one of the leading pioneers of Alzheimer’s research, believes the disease is preventable. “We can now say if someone’s risk for Alzheimer's is significant, preventative care can reduce that risk to virtually zero. My argument is, with what we know now, virtually no one should get Alzheimer's. It is now essentially an optional illness.”
+
+ApoE is a gene that influences the amount of harmful plaque in your brain (as well as many other factors, such as inflammation and fat absorption), which are thought to be one of the main features of Alzheimer’s. The type of ApoE you carry determines your risk for developing the disease.
+
+# **How is it measured?**
+
+While possessing one or both copies is shown to increase the risk of developing late-onset Alzheimer's, it is not a diagnosis. Once you understand your personal ApoE, you can be empowered to take steps to reduce your risk of a future diagnosis. Here’s a breakdown of the ApoE ranges as reflected in Function results:
+
+- **ApoE2 and ApoE3**. The lifetime risk associated with these genes is usually caused by exposure to toxins, head trauma, vascular disease, and sometimes, atrophy. Meaning that the body’s support systems are weak and cannot bring life-affirming support to the brain. Typically, this occurs with chronically low vitamin D, estradiol, testosterone, and thyroid function. The following markers (which are ApoE4-negative) have risk levels lower than 9%.
+  - **ApoE2/2**
+  - **ApoE2/3**
+  - **ApoE3/3**
+- **ApoE4:** The most common risk factor gene for Alzheimer’s. Developing Alzheimer’s with the ApoE4 gene is influenced by inflammation from diet, exposure to toxins, and behaviors decades before symptoms first express themselves. Meaning, you can learn about your risk 10 to 15 years before onset and reduce your risk (and potentially avoid it completely) by proactively managing your personal risk factors.
+  - **ApoE2/4**: lifetime risk is less than 30%
+  - **ApoE3/4:** 75 million Americans with lifetime risk is 30%
+  - **ApoE4/4:** 7 million Americans with lifetime risk is 50% - 90%
+
+And while ApoE4 is most known for its association with Alzheimer’s, it is also linked to other forms of dementia and cognitive decline, high cholesterol, cardiovascular disease, infectious disease susceptibility, and gallstones. If you have this gene, it is a signal, not a diagnosis. Most importantly (and incredibly empowering) is that you can do something about it.
+
+# **Why ApoE4?**
+
+ApoE4 is believed to be partly responsible for damaging the blood-brain barrier (BBB), which is built to protect the brain from outside threats. Once the BBB is compromised, cognitive diseases are more apt to occur from sources like exposure to inflammation, toxins, and bacteria. This becomes especially problematic when those threats are chronic, ongoing, and unrelenting. Knowing your risk factors can be the defining knowledge of preventing your onset. The following are the most common factors:
+
+- Inflammation from infection, diet, diabetes, high blood pressure
+  - Biomarkers: white blood cell, red blood cell, hemoglobin, HbA1c, hsCRP, triglyceride/HDL ratio, LDL particle number, insulin, blood pressure
+- The decline of support systems: nutrients, hormones, and other brain-affirming molecules
+  - Biomarkers: Vitamin D, MMA, Omega, estradiol, testosterone, thyroid function (TSH, T3, T4, TgAb, iodine)
+- Toxic substances such as metals or biotoxins (poisons produced by microbes such as mold)
+  - Biomarkers: mercury, aluminum, lead, arsenic, nickel
+- Glucotoxicity, diabetes, insulin resistance
+  - Biomarkers: glucose, insulin
+- Urinary mycotoxins
+  - Additional testing: mold
+- Brain trauma, injury, or infection
+  - Examples: stroke, head trauma
+- Calcium spore
+
+# **Prevention**
+
+Empowering your brain’s support systems is key to reducing your personal risk. You’ll want to look at your metabolic, gut, and cardiac health, vital nutrients, hormones, and inflammation status, and exposure to toxins and metals. Keeping track of these systems will guide you down a path specific to your body and brain: whether that’s detoxing the presence of metals, strengthening your gut with supportive foods and good bacteria, or avoiding exposure to toxins in your household, to name just a few.
+
+Dr. Bredesen, Dr. Hyman, and many others in the field of lipidology believe there is a tremendous amount of preventative action every person can take for better health, especially strategic prevention for dietary, gut, and cardiac health, along with toxin exposure and avoidance.
+
+Dr. Bredesen believes that once you know your Alzheimer’s risk, “there's a tremendous amount that can be done to live appropriately to your status.”
+
+- Minimize inflammation from stress, food, and toxins
+- Stabilize supportive nutrients, hormones, and other brain-strengthening molecules
+- Detox or avoid toxic substances such as metals, biotoxins, chemicals
+- Regulate glucose
+- Check for mold in your home
+
+**Self Care**
+
+Individuals with the ApoE4 gene can reduce their risk by engaging in activities and lifestyles that empower the brain and reduce your risk.
+
+- Sleep
+- Exercise
+- Stress reduction
+- Healthy nutrition
+- Meaningful relationships with yourself and others
+
+**What to eat**
+
+In general, the brain needs fuel from vitamins, minerals, and healthy fats (it is, after all, made up of 60% fat). When diverting your path from a disease like Alzheimer’s, it’s important to not only engage in brain health but also the health of its supporting systems. Since ApoE4 is linked to cardiac health, blood pressure, diabetes, and more inflammatory conditions taking care to avoid inflammation in the first place can help mitigate risk. Below are suggested foods that provide a wide array of the nutrients your brain/body needs, along with gut support to ensure your microbiome is properly nourished.
+
+- Non-starchy vegetables: arugula, asparagus, bean sprouts, broccoli, bok choy, Brussels sprouts, cabbage, cauliflower, celery, collard greens, kale, cucumber, eggplant, green tops of beets, dandelion, mustard, and turnips, green beans, fennel, hearts of palm, leafy lettuces (except iceberg), jicama, kohlrabi, leeks, mushrooms, okra, onions, bell peppers, zucchini and summer squash, tomatoes, swiss chard, snow peas, snap peas, spinach, radish, rutabaga, watercress, garlic, ginger, onions, parsley
+- Starchy vegetables (limited quantities): carrots, corn, green peas, sweet potatoes, yams, parsnips, taro, cassava, winter squash (butternut, acorn, kabocha, pumpkin), plantains, beets, turnips, rutabaga, artichoke
+- Fruits: avocados, apples, pears, peaches, bananas, mangoes, papayas, berries (blueberry, blackberry, raspberry, strawberry, cranberry, elderberry, boysenberry, currants, acai, goji)
+- Whole, gluten-free grains: quinoa, buckwheat, whole-kernel rye, amaranth, millet, teff, sorghum, black rice, brown rice, red rice, wild rice (actually a seed)
+- Probiotics: kimchi, kombucha, sauerkraut, kefir, miso, fresh dill pickles, tempeh
+- Nuts and seeds: almonds, cashews, pecans, walnuts, macadamia, hazelnuts, brazil nuts, pistachios, chia, hemp, flax, pumpkin, sesame
+- Legumes: kidney, butter beans, chickpeas (garbanzo), adzuki, black, navy, pinto, mung, blackeyed, red or green lentils
+- Oils: avocado oil, grass-fed ghee (clarified butter), virgin coconut oil, extra virgin olive, walnut, almond, macadamia, sesame seed, tahini (sesame seed paste), flax, hemp oil
+- Non-GMO organic soy: edamame, tempeh, natto, tofu, miso
+- Lean meat: bison, elk, venison, poultry in moderation
+- Small deepwater fish: salmon, sardines, herring, mackerel or other sustainably and organically farm-raised fish. See [EWG](http://www.ewg.org) and [CleanFish](https://www.cleanfish.com/) for guides to eating clean fish.
+- pasture-raised eggs
+- Tea: green tea, black tea, other herbal teas (burdock root, dandelion root, ginger root, licorice root, sarsaparilla root, cardamom seed, cinnamon bark)
+- Fresh vegetables juices: celery, cilantro, parsley and ginger
+- Antioxidant dried spices and seasonings: turmeric, oregano, rosemary, cloves, peppermint, star anise, celery seed, sage, spearmint, thyme, basil, curry powder, ginger, cumin, cinnamon
+
+**Foods to limit**
+
+Inflammation is a big factor when it comes to the onset of disease, whether it’s Alzheimer’s or cardiac or something else. To divert your pathway, avoid foods that weaken your systems and cause inflammation.
+
+- Refined starches: white flour, white rice, pasta, flour tortillas, corn grits, ready-to-eat breakfast cereals, and other products made from processed white flour
+- Refined sugars and sweeteners: refined white sugar, brown sugar, powdered sugar, artificial sweeteners (aspartame, sucralose, saccharin acesulfame potassium), high-fructose corn syrup, agave, brown rice syrup, evaporated cane juice
+- Refined oils and spreads: soybean, canola, corn, safflower, sunflower, palm, peanut, vegetable, vegetable shortening, margarine, and anything that says “hydrogenated”
+- Dairy: milk, cheese, ice cream, yogurt
+- Processed foods: boxed and frozen (look at the ingredient list and avoid unnatural ingredients) fried foods, baked goods, processed snacks
+- Legumes: baked beans
+- Gluten products
+- Beverages: alcohol
+
+## Hormone
+
+### Insulin-like Growth Factor (IGF-1)
+
+| Optimal range   | Reference range |
+| --------------- | --------------- |
+| 133 - 430 ng/dL | 53 - 331 ng/mL  |
+
+This test evaluates your Growth Hormone, which is made by the pituitary gland and triggers the liver to produce IGF-1. IGF-1 stimulates cell development throughout the body, leading to growth, strengthening of tissues, healing, and other systems. Typically, IGF-1 levels depend on age as IGF-1 naturally decreases as you get older. The biomarker is often compared with testosterone to determine anti-aging strategies.
