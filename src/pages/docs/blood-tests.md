@@ -869,7 +869,7 @@ This test further examines personal risk for coronary artery disease, when compa
 
 Dr. Krauss has led the research in the development of the lipoprotein fractionation biomarker. His studies show that size and density capture important features of risk assessment because people with a higher risk of heart disease and people who have evidence of heart disease tend to have a lot of the smaller and denser LDL particles. People who are generally healthy tended to have more of the larger and buoyant LDL.
 
-### **Tests included**
+#### **Tests included**
 
 Below are what this test measures, and what each particle type means. It’s a bit of a numbers game trying to understand the scope of your results and a lot of factors go into a diagnosis or risk assessment. Because of this, it is best to discuss your levels with a doctor if they are out of range:
 
