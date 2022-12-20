@@ -61,15 +61,4 @@ A typical week of exercise consists of:
 - 3-5 bouts of strength training
 - 4 bouts of zone 2
 - 2 bouts of zone 5
-- Stability is sprinkled into pretty much every day with maybe one day of a longer, more dedicated 60-minute session around stability
-
-An example schedule looks as follows:
-
-- Cardio days‒ Tuesday, Thursday, Saturday, Sunday
-
-  - 45 minutes of zone 2 training on Tuesday, Thursday, Sunday
-  - Saturday is a zone 2 workout (45”) followed by zone 5 workout (30”)
-
-- Weightlifting‒ Monday, Wednesday, Friday, Sunday
-
-  - Lower body on Mondays and Fridays, and does upper body on Wednesdays and Sundays
+- A little bit of stability every day

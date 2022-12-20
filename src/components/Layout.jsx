@@ -44,13 +44,6 @@ const navigation = [
     links: [{ title: 'Medication & Supplements', href: '/docs/pharmacology' }],
   },
   {
-    title: '',
-    links: [
-      { title: 'Blood Tests', href: '/docs/blood-tests' },
-      { title: 'DEXA Scan', href: '/docs/dexa' },
-    ],
-  },
-  {
     title: 'EARLY Key Metrics',
     links: [
       { title: 'Oura', href: '/docs/oura-metrics' },
