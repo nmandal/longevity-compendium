@@ -104,7 +104,7 @@ You can then dowload the files as a ZIP and have the files you need to upload to
 
 ## Upload to EARLY
 
-- Go to [https://earlydao.vercel.app/import](https://earlydao.vercel.app/import)
+- Go to [https://beearly.xyz/import](https://beearly.xyz/import)
 
 - Select correct data source (Oura, Apple Workouts, Apple Health, Levels, Misc)
 
