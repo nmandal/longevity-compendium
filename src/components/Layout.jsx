@@ -19,8 +19,8 @@ const navigation = [
   {
     title: 'Longevity',
     links: [
-      { title: 'Understanding Lifespan', href: '/docs/lifespan' },
-      { title: 'Understanding Healthspan', href: '/docs/healthspan' },
+      { title: 'Lifespan', href: '/docs/lifespan' },
+      { title: 'Healthspan', href: '/docs/healthspan' },
     ],
   },
   {
@@ -44,9 +44,8 @@ const navigation = [
     links: [{ title: 'Medication & Supplements', href: '/docs/pharmacology' }],
   },
   {
-    title: 'Labs',
+    title: '',
     links: [
-      { title: 'Screening & Diagnostics', href: '/docs/labs' },
       { title: 'Blood Tests', href: '/docs/blood-tests' },
       { title: 'DEXA Scan', href: '/docs/dexa' },
     ],
